@@ -1,6 +1,5 @@
 ## Hi there, I'm Nandu Prasad 👋
 
-<!--
 
 - 🔭 I’m currently working on Data Analytics, Machine Learning and DNN projects.
 - 🌱 I’m currently learning everything.
