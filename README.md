@@ -1,5 +1,5 @@
 ## Hi there, I'm Nandu Prasad 👋
-### I am a AI/ML enthusiast
+### I am a DS/AI/ML and DL enthusiast
 
 - 🔭 I’m currently working on Data Analytics, Machine Learning and DNN projects.
 - 🌱 I’m currently learning everything.
