@@ -19,7 +19,7 @@
 
 </details>
 
-[website]: https://nanduprasadm.blogspot.com/
+[website]: https://nandu26m.github.io/
 [youtube]: https://www.youtube.com/channel/UCB0bH7hsqfKpS1s5YfAA0AQ?view_as=subscriber
 [instagram]: https://www.instagram.com/nanduprasad_
 [linkedin]: https://www.linkedin.com/in/nandu-prasad-56045716b
