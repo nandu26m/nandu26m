@@ -14,7 +14,7 @@
 
 - 🐕 I have two dogs Kesu and Shadow.
 
-- 📫 Reach me on my email **nandu26m@gmail.com / nandu.prasad@hotmail.com**
+- 📫 Reach me on my email **nandu26m@gmail.com**
 
 - 📄 Know about my experiences **https://nandu26m.github.io/**
 
