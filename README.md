@@ -4,7 +4,7 @@
 
 - 📚 Data Analytics Master's student.
 
-- 🔭 I’m currently working on **Data Analytics, Machine Learning and DNN projects.**
+- 🔭 I’m currently working on **Data Analytics & Machine Learning.**
 
 - 💬 Ask me about **Python and Machine Learning.**
 
