@@ -3,9 +3,9 @@
 
 - 📚 Data Analytics Master's student.
 - 🔭 I’m currently working on Data Analytics, Machine Learning and DNN projects.
-- 🌱 I’m currently learning everything.
+- 🌱 I’m currently learning Data Analytics.
 - 🖥️ I'm looking for someone to collaborate on AI/ML projects.
-- 🐕 I have a dog and his name is Kesu.
+- 🐕 I have two dogs Kesu and Shadow.
 - 📩 Reach me on my email: **nandu26m@gmail.com / nandu.prasad@hotmail.com**
 
 
