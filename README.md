@@ -1,72 +1,80 @@
-<h1 align="center">Hi there, I'm Nandu 👋</h1>
+<!-- Banner -->
+<h1 align="center">Hey, I'm Nandu 👋</h1>
 <p align="center">
-  🌍 Data Analyst | 📊 Problem Solver | 🚀 Tech Enthusiast<br>
-  Turning data into impact with storytelling, dashboards & models
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BA3E7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Storyteller+with+Data;Transforming+raw+data+into+decisions;Let’s+turn+analytics+into+impact" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  📊 Data Analyst | 📦 Logistics & Fintech | 🤖 ML & Automation | 🛠️ Dashboard Developer  
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-I'm a results-driven **Data Analyst** with a strong academic background in **Electronics & Instrumentation** and a Master's degree in **Data Analytics**.
+I'm a passionate and detail-oriented **Data Analyst** with a background in **Electronics & Instrumentation** and a Master's in **Data Analytics**.
 
-I thrive at the intersection of **business and data**, using tools like Python, SQL, and Tableau to discover insights, optimize processes, and drive decisions in marketing, fintech, logistics, and operations domains.
-
----
-
-## 💡 What I Do
-
-- 📈 **Data Analytics & Visualization**  
-  From raw data to dashboards — I transform complexity into clarity using **SQL**, **Python**, **Excel**, and **Tableau**.
-
-- 🤖 **Predictive Modeling & Machine Learning**  
-  I uncover patterns and forecast outcomes using **scikit-learn**, **statsmodels**, and classic ML techniques.
-
-- ⚙️ **Workflow Automation**  
-  I automate data cleaning, ETL, and reporting pipelines to save hours of manual effort and reduce human error.
-
-- 🧩 **Cross-functional Collaboration**  
-  I work closely with stakeholders to align analytics with business strategy and KPIs.
+I specialize in:
+- Delivering insights through **dashboards**, **models**, and **data storytelling**
+- Automating tedious processes with **Python**, **SQL**, and **workflows**
+- Collaborating across product, marketing, and operations to turn questions into actionable answers
 
 ---
 
-## 🔧 Tech Toolbox
+## 🛠️ Tech Toolbox
+
+<div align="center">
 
 | 🧠 Languages       | 📊 Tools & Platforms       | 📚 Libraries / Frameworks      |
 |--------------------|-----------------------------|--------------------------------|
-| Python, SQL, Excel | Tableau, BigQuery, GitHub   | pandas, NumPy, scikit-learn    |
-| MySQL, MS SQL      | Jupyter, Power BI           | Matplotlib, Seaborn, Open3D    |
+| Python, SQL, Excel | Tableau, BigQuery, Git      | pandas, NumPy, scikit-learn    |
+| MySQL, MS SQL      | Jupyter, Power BI, GitHub   | Matplotlib, Seaborn, Open3D    |
+
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
-- 📊 **Sales Dashboard**  
-  Developed interactive dashboards to visualize trends and KPIs for executive decision-making.
+✨ **[Sales Dashboard](#)**  
+Built interactive dashboards to monitor revenue KPIs and business performance using Tableau.
 
-- 💰 **Customer LTV Analysis**  
-  Segmented customers and forecasted lifetime value using Python-based clustering and regression.
+📈 **[Customer LTV Prediction](#)**  
+Applied clustering and regression to model customer lifetime value and segment high-value users.
 
-- 🚚 **Logistics KPI Monitoring**  
-  Built real-time dashboards to monitor delivery performance and operational bottlenecks.
+🚚 **[Logistics KPI Monitoring](#)**  
+Created a real-time dashboard to track delivery times, bottlenecks, and fulfillment metrics.
 
-- 🧱 **3D Point Cloud Visualization**  
-  Used **Open3D** and Stanford/KITTI datasets to render and analyze spatial data in 3D environments.
+🔍 **[3D Point Cloud Visualizer](#)**  
+Visualized point cloud data using Open3D and Stanford/KITTI datasets for spatial analysis.
 
-> ✨ *Check out my pinned repos below or explore more under the Projects tab!*
+🧼 **[ETL & Data Cleaning Pipelines](#)**  
+Automated messy datasets into clean, analysis-ready forms using Python and Pandas.
+
+> 🧠 *Explore my pinned repositories for more!*
 
 ---
 
-## 📬 Let's Connect
+## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🌐 [Portfolio Website](https://yourwebsite.com)  
-- 📫 **Email**: your.email@example.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web"></a>
+</p>
 
-I love collaborating on meaningful projects — feel free to reach out!
+---
+
+## ⚡ Quick Facts
+
+- 🎓 MSc in Data Analytics  
+- 🔎 Domain focus: Fintech, Marketing, and Logistics  
+- 🧠 Lifelong learner: IBM, Google, and Tableau certified  
+- 🌍 Currently based in **Berlin**, open to remote or hybrid roles  
+- 💬 Ask me about: Analytics, Python, Data Pipelines, or career transitions!
 
 ---
 
 <p align="center">
-  ⭐ If you like what you see, give it a star! | 📌 Let's build data-driven futures together.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3BA3E7&height=120&section=footer"/>
 </p>
