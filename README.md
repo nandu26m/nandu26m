@@ -1,62 +1,72 @@
-<h1 align="center">Hi 👋, I'm Nandu Prasad</h1>
-<h3 align="center">Data Analyst</h3>
-
-# 👋 Hi, I'm Nandu
-
-Welcome to my GitHub! I'm a data-driven professional passionate about solving real-world problems through data analytics, machine learning, and creative insights. With a background in Electronics and Instrumentation and a Master's degree in Data Analytics, I bring a blend of analytical thinking, technical skills, and domain understanding to every project.
-
----
-
-## 💼 What I Do
-
-🔍 **Data Analysis & Visualization**  
-- Turn raw data into actionable insights using SQL, Python (pandas, NumPy), and Excel  
-- Build intuitive dashboards with Tableau and Matplotlib/Seaborn  
-- Deliver clear business value by translating complex findings into decision-ready reports
-
-🧠 **Machine Learning & Predictive Analytics**  
-- Explore patterns and build models for customer behavior, logistics, and finance  
-- Experience with scikit-learn, statsmodels, and model evaluation
-
-⚙️ **Process Automation**  
-- Automate repetitive data tasks using Python scripts and pipelines  
-- Improve workflow efficiency and reduce manual effort
-
-🌍 **Cross-Functional Collaboration**  
-- Work closely with product, operations, and business teams  
-- Communicate insights effectively to both technical and non-technical stakeholders
+<h1 align="center">Hi there, I'm Nandu 👋</h1>
+<p align="center">
+  🌍 Data Analyst | 📊 Problem Solver | 🚀 Tech Enthusiast<br>
+  Turning data into impact with storytelling, dashboards & models
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-- **Languages**: Python, SQL (BigQuery, MySQL, MS SQL Server), Excel
-- **Tools**: Tableau, Git, Jupyter, Power BI
-- **Libraries**: pandas, NumPy, scikit-learn, Open3D, Matplotlib, Seaborn
-- **Other**: Data Cleaning, Feature Engineering, EDA, A/B Testing, Dashboarding
+I'm a results-driven **Data Analyst** with a strong academic background in **Electronics & Instrumentation** and a Master's degree in **Data Analytics**.
 
----
-
-## 🚀 Projects
-
-Here are a few highlights from my portfolio:
-- 📊 **Sales Dashboard** – Visualized sales KPIs to assist decision-making
-- 📈 **Customer LTV Analysis** – Segmented and modeled lifetime value by behavior
-- 🚚 **Logistics KPI Monitoring** – Built real-time dashboards to track delivery metrics
-- 🌐 **3D Point Cloud Visualization** – Used Open3D to visualize spatial datasets
-
-> Check out the pinned repositories below for more!
+I thrive at the intersection of **business and data**, using tools like Python, SQL, and Tableau to discover insights, optimize processes, and drive decisions in marketing, fintech, logistics, and operations domains.
 
 ---
 
-## 📫 Get in Touch
+## 💡 What I Do
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile/)  
-- 📧 Email: your.email@example.com  
-- 🌍 Portfolio/Website: [yourwebsite.com](https://yourwebsite.com)
+- 📈 **Data Analytics & Visualization**  
+  From raw data to dashboards — I transform complexity into clarity using **SQL**, **Python**, **Excel**, and **Tableau**.
 
-Let's connect and build something amazing!
+- 🤖 **Predictive Modeling & Machine Learning**  
+  I uncover patterns and forecast outcomes using **scikit-learn**, **statsmodels**, and classic ML techniques.
+
+- ⚙️ **Workflow Automation**  
+  I automate data cleaning, ETL, and reporting pipelines to save hours of manual effort and reduce human error.
+
+- 🧩 **Cross-functional Collaboration**  
+  I work closely with stakeholders to align analytics with business strategy and KPIs.
 
 ---
 
-_Thanks for visiting! ⭐ Feel free to explore my repositories and drop a star if something interests you!_
+## 🔧 Tech Toolbox
+
+| 🧠 Languages       | 📊 Tools & Platforms       | 📚 Libraries / Frameworks      |
+|--------------------|-----------------------------|--------------------------------|
+| Python, SQL, Excel | Tableau, BigQuery, GitHub   | pandas, NumPy, scikit-learn    |
+| MySQL, MS SQL      | Jupyter, Power BI           | Matplotlib, Seaborn, Open3D    |
+
+---
+
+## 🚀 Featured Projects
+
+- 📊 **Sales Dashboard**  
+  Developed interactive dashboards to visualize trends and KPIs for executive decision-making.
+
+- 💰 **Customer LTV Analysis**  
+  Segmented customers and forecasted lifetime value using Python-based clustering and regression.
+
+- 🚚 **Logistics KPI Monitoring**  
+  Built real-time dashboards to monitor delivery performance and operational bottlenecks.
+
+- 🧱 **3D Point Cloud Visualization**  
+  Used **Open3D** and Stanford/KITTI datasets to render and analyze spatial data in 3D environments.
+
+> ✨ *Check out my pinned repos below or explore more under the Projects tab!*
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🌐 [Portfolio Website](https://yourwebsite.com)  
+- 📫 **Email**: your.email@example.com  
+
+I love collaborating on meaningful projects — feel free to reach out!
+
+---
+
+<p align="center">
+  ⭐ If you like what you see, give it a star! | 📌 Let's build data-driven futures together.
+</p>
