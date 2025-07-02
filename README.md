@@ -32,26 +32,6 @@ I specialize in:
 
 </div>
 
----
-
-## 📌 Featured Projects
-
-✨ **[Sales Dashboard](#)**  
-Built interactive dashboards to monitor revenue KPIs and business performance using Tableau.
-
-📈 **[Customer LTV Prediction](#)**  
-Applied clustering and regression to model customer lifetime value and segment high-value users.
-
-🚚 **[Logistics KPI Monitoring](#)**  
-Created a real-time dashboard to track delivery times, bottlenecks, and fulfillment metrics.
-
-🔍 **[3D Point Cloud Visualizer](#)**  
-Visualized point cloud data using Open3D and Stanford/KITTI datasets for spatial analysis.
-
-🧼 **[ETL & Data Cleaning Pipelines](#)**  
-Automated messy datasets into clean, analysis-ready forms using Python and Pandas.
-
-> 🧠 *Explore my pinned repositories for more!*
 
 ---
 
