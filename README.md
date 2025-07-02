@@ -1,60 +1,39 @@
-<!-- Banner -->
-<h1 align="center">Hey, I'm Nandu 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3BA3E7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Storyteller+with+Data;Transforming+raw+data+into+decisions;Let’s+turn+analytics+into+impact" alt="Typing SVG" />
-</p>
+# Hello, I'm Nandu 👋
 
-<p align="center">
-  📊 Data Analyst | 📦 Logistics & Fintech | 🤖 ML & Automation | 🛠️ Dashboard Developer  
-</p>
+**Data Analyst | Logistics & Fintech Enthusiast | ML & Automation Advocate | Dashboard Developer**
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm a passionate and detail-oriented **Data Analyst** with a background in **Electronics & Instrumentation** and a Master's in **Data Analytics**.
+I am a meticulous and passionate Data Analyst with a foundation in Electronics & Instrumentation complemented by a Master's degree in Data Analytics.
 
-I specialize in:
-- Delivering insights through **dashboards**, **models**, and **data storytelling**
-- Automating tedious processes with **Python**, **SQL**, and **workflows**
-- Collaborating across product, marketing, and operations to turn questions into actionable answers
+My expertise lies in transforming complex data into clear, actionable insights through compelling dashboards and predictive models. I excel at automating workflows with Python and SQL, enabling teams to focus on strategic decisions. With a collaborative spirit, I partner across product, marketing, and operations to convert questions into impactful business outcomes.
 
 ---
 
-## 🛠️ Tech Toolbox
+## Technical Proficiencies
 
-<div align="center">
-
-| 🧠 Languages       | 📊 Tools & Platforms       | 📚 Libraries / Frameworks      |
-|--------------------|-----------------------------|--------------------------------|
-| Python, SQL, Excel | Tableau, BigQuery, Git      | pandas, NumPy, scikit-learn    |
-| MySQL, MS SQL      | Jupyter, Power BI, GitHub   | Matplotlib, Seaborn, Open3D    |
-
-</div>
-
+| Languages            | Tools & Platforms              | Libraries & Frameworks          |
+|----------------------|-------------------------------|--------------------------------|
+| Python, SQL, Excel   | Tableau, BigQuery, Git         | pandas, NumPy, scikit-learn    |
+| MySQL, MS SQL       | Jupyter Notebook, Power BI, GitHub | Matplotlib, Seaborn, Open3D    |
 
 ---
 
-## 📫 Let’s Connect
+## Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://yourwebsite.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web"></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/your-profile) • [Email](mailto:your.email@example.com) • [Portfolio](https://yourportfolio.com)
 
 ---
 
-## ⚡ Quick Facts
+## Quick Facts
 
-- 🎓 MSc in Data Analytics  
-- 🔎 Domain focus: Fintech, Marketing, and Logistics  
-- 🧠 Lifelong learner: IBM, Google, and Tableau certified  
-- 🌍 Currently based in **Berlin**, open to remote or hybrid roles  
-- 💬 Ask me about: Analytics, Python, Data Pipelines, or career transitions!
+- 🎓 Master’s Degree in Data Analytics  
+- 🔍 Focused on Fintech, Marketing, and Logistics domains  
+- 📜 Certified by IBM, Google, and Tableau  
+- 🌍 Based in Berlin, open to remote or hybrid opportunities  
+- 💡 Always eager to discuss analytics, Python, data pipelines, or career growth
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3BA3E7&height=120&section=footer"/>
-</p>
