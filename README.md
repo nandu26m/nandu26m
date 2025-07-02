@@ -1,6 +1,6 @@
 # Hello, I'm Nandu 👋
 
-**Data Analyst | Logistics & Fintech Enthusiast | ML & Automation Advocate | Dashboard Developer**
+**Data Analyst | Logistics & Fintech | ML & Automation | Dashboard Developer**
 
 ---
 
