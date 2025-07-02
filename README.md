@@ -23,7 +23,7 @@ My expertise lies in transforming complex data into clear, actionable insights t
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/nanduprasad) • [Email](mailto:your.email@example.com) • [Portfolio](https://yourportfolio.com)
+[LinkedIn](https://www.linkedin.com/in/nanduprasad) • [Email](mailto:nanduprasad.pm@gmail.com)
 
 ---
 
